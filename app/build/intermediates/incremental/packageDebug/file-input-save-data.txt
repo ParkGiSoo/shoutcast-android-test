@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Apr 17 16:42:00 KST 2017
+2.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0fd20d576b33371f45e12d9d9f1d5e2cb91d5f7a\\classes.dex
+5.set=DEX
+3.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8046b8c04e7ffd6ebd7bcf82d058eaddd74be9ce\\classes.dex
+5.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0fd20d576b33371f45e12d9d9f1d5e2cb91d5f7a
+4.set=ANDROID_RESOURCE
+1.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8046b8c04e7ffd6ebd7bcf82d058eaddd74be9ce
+3.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=DEX

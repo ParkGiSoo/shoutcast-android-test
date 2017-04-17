@@ -1,0 +1,4 @@
+#Mon Apr 17 16:41:59 KST 2017
+base.0=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_fa6e53dc2643de9e30712d3dfd97c7e9b60dd5f5
+renamed.0=classes.dex
+file.0=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_fa6e53dc2643de9e30712d3dfd97c7e9b60dd5f5\\classes.dex

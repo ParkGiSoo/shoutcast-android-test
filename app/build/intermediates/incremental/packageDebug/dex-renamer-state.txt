@@ -1,0 +1,7 @@
+#Mon Apr 17 16:42:00 KST 2017
+base.0=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8046b8c04e7ffd6ebd7bcf82d058eaddd74be9ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0fd20d576b33371f45e12d9d9f1d5e2cb91d5f7a\\classes.dex
+base.1=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0fd20d576b33371f45e12d9d9f1d5e2cb91d5f7a
+file.0=D\:\\androidwork\\shoutcast-android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8046b8c04e7ffd6ebd7bcf82d058eaddd74be9ce\\classes.dex

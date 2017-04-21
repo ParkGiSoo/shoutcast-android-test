@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1492744119157"
+    timestamp="1492744783895"
     token="-7466684699481965538"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="163" />
+        duration="152" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="75" />
+        duration="16" />
     <task
         name="verifier"
-        duration="4" />
+        duration="2" />
 
     <artifact
         location="D:\androidwork\shoutcast-android-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1492744119157"
+        timestamp="1492744783895"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\androidwork\shoutcast-android-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"

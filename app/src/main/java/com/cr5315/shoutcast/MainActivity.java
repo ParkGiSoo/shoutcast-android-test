@@ -59,8 +59,8 @@ public class MainActivity extends Activity {
 	}
 
 	public void onButton1Clicked(View v){
-		sendSMS("01043239873","출석체크 했음 메롱");
-        //sendSMS("01064223613","출석체크 했음 메롱");
+		sendSMS("01010001000","출석체크 했음 메롱");
+
 	}
 
 	public void sendSMS(String phoneNum, String message) {
@@ -78,8 +78,8 @@ public class MainActivity extends Activity {
 		String et_text = et.getText().toString();
 		//Toast.makeText(this,et_text,Toast.LENGTH_LONG).show();
 
-		sendSMS_Text("01043239873",et_text);
-		//sendSMS_Text("01064223613",et_text);
+		sendSMS_Text("01010001000",et_text);
+
 	}
 
 	public void sendSMS_Text(String phoneNum, String message) {
